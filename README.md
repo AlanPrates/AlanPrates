@@ -8,7 +8,7 @@ Atuo no desenvolvimento de sistemas, landing pages, CRMs, marketplaces e produto
 
 ## Sobre mim
 
-- Desenvolvedor Full Stack do Brasil.
+- Desenvolvedor Full Stack.
 - Criador do **Marketplace Prates**, uma plataforma voltada para templates premium, scripts PHP e soluções prontas para negócios digitais.
 - Interesse em sistemas de gestão, interfaces modernas, automação e produtos web escaláveis.
 - Sempre evoluindo em arquitetura, qualidade de código e experiência do usuário.
