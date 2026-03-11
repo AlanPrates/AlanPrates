@@ -72,7 +72,7 @@ No meu site, publico soluções como:
   <a href="https://instagram.com/alaninvasion" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:alanpratesaps@gmail.com">
+  <a href="mailto:alan_invasion@hotmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/5573991636180" target="_blank">
