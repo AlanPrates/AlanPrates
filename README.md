@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Alan+Prates+%F0%9F%91%8B;Full+Stack+Developer;Criador+do+Marketplace+Prates" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Alan+Prates+%F0%9F%91%8B;Full+Stack+Developer" alt="Typing SVG" />
 
 <p>Desenvolvedor Full Stack apaixonado por criar soluções web modernas,<br>funcionais e com foco em resultado.</p>
 
-[![Portfólio](https://img.shields.io/badge/🌐%20Marketplace-marketplaceprates.com.br-58A6FF?style=for-the-badge)](#)
 [![Portfólio](https://img.shields.io/badge/💼%20Portf%C3%B3lio-alanprates.github.io-6e40c9?style=for-the-badge)](https://alanprates.github.io/skill/)
 
 </div>
@@ -19,10 +18,9 @@ location: Brasil 🇧🇷
 role: Full Stack Developer
 focus:
   - Sistemas de gestão e CRM
-  - Marketplaces e e-commerce
+  - E-commerce
   - Landing pages de alta conversão
   - Automações e produtos digitais
-product: Marketplace Prates — templates premium e scripts PHP
 ```
 
 ---
@@ -74,7 +72,6 @@ product: Marketplace Prates — templates premium e scripts PHP
 
 <div align="center">
 
-[![Marketplace](https://img.shields.io/badge/Marketplace%20Prates-111827?style=for-the-badge&logo=google-chrome&logoColor=58A6FF)](https://www.marketplaceprates.com.br/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://alanprates.github.io/skill/)
 [![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/alaninvasion)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5573991636180)
