@@ -4,7 +4,7 @@
 
 <p>Desenvolvedor Full Stack apaixonado por criar soluções web modernas,<br>funcionais e com foco em resultado.</p>
 
-[![Portfólio](https://img.shields.io/badge/🌐%20Marketplace-marketplaceprates.com.br-58A6FF?style=for-the-badge)](https://www.marketplaceprates.com.br/)
+[![Portfólio](https://img.shields.io/badge/🌐%20Marketplace-marketplaceprates.com.br-58A6FF?style=for-the-badge)](#)
 [![Portfólio](https://img.shields.io/badge/💼%20Portf%C3%B3lio-alanprates.github.io-6e40c9?style=for-the-badge)](https://alanprates.github.io/skill/)
 
 </div>
